@@ -33,7 +33,8 @@ def circle(start, end):
         forward(2*math.pi*radius/360.0) 
         right(1.0)      
     up() 
-    end_fill() 
+    end_fill()
+    #beep
     pass  
 
 def rectangle(start, end):
