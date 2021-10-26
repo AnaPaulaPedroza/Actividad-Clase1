@@ -1,5 +1,6 @@
 from turtle import *
 from freegames import vector
+import math
 
 def line(start, end):
     "Draw line from start to end."
@@ -23,7 +24,18 @@ def square(start, end):
 
 def circle(start, end):
     "Draw circle from start to end."
-    pass  # TODO
+    radius = abs(start-end)
+    up()
+    goto(start.x,start.y) 
+    begin_fill() 
+    down() 
+    for i in range(360):
+        forward(2*math.pi*radius/360.0) 
+        right(1.0)      
+    up() 
+    end_fill()
+    #beep
+    pass  
 
 def rectangle(start, end):
     "Draw rectangle from start to end."
