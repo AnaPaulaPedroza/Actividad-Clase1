@@ -1,26 +1,25 @@
 # Actividad en Clase 1
-## Juego de la Víbora
+## Juego de Pintado
  
- Es sobre la actividad de Juego de la Víbora.
+ Es sobre la actividad de Juego Pintado.
  
  Se tiene que completar el juego.
  
  --------------------------------------------------------------------------------
 ### Instrucciones:
+Se divirá entre los integrantes:
 
-Junto con el compañero analicen el código y documenten de acuerdo al estándar del Instituto.
+crear un repositorio con el videojuego copiado y se lo compartirá a los otros compañeros
 
-Uno de los dos creará un repositorio con el videojuego copiado y se lo compartirá al otro compañero
+Un color nuevo
 
-Uno de los dos hará que:
+Dibujar un círculo
 
- La comida podrá moverse al azar un paso a la vez y no deberá de salirse de la ventana
- 
-El otro compañero deberá hacer que:
+Completar el rectángulo
 
- Cada vez que se corra el juego, la víbora y la comida deberán tener colores diferentes entre sí, pero al azar, de una serie de 5 diferentes colores, excepto el rojo.
- 
-Asegúrense de haber documentado correctamente el código de acuerdo al estándar del Instituto.
+Completar el triángulo
+
+##### Asegúrense de haber documentado correctamente el código de acuerdo al estándar del Instituto.
 
 ### Deberás subir a la plataforma:
 
