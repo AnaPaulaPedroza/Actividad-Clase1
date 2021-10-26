@@ -6,7 +6,7 @@
  Se tiene que completar el juego.
  
  --------------------------------------------------------------------------------
-Instrucciones:
+### Instrucciones:
 
 Junto con el compañero analicen el código y documenten de acuerdo al estándar del Instituto.
 
@@ -22,7 +22,7 @@ El otro compañero deberá hacer que:
  
 Asegúrense de haber documentado correctamente el código de acuerdo al estándar del Instituto.
 
-Deberás subir a la plataforma:
+### Deberás subir a la plataforma:
 
 Archivo del videojuego modificado
 
