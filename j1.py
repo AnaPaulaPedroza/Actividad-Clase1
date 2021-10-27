@@ -34,8 +34,6 @@ def circle(start, end):
         right(1.0)      
     up() 
     end_fill()
-    #beep
-    pass  
 
 def rectangle(start, end):
     "Draw rectangle from start to end."
@@ -64,9 +62,6 @@ def triangle(start, end):
         left(120)
 
     end_fill()
-    
-    
-    pass  # TODO
 
 def tap(x, y):
     "Store starting point or draw shape."
